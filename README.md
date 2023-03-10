@@ -3,7 +3,7 @@
       <a href="https://github.com/CoolDevMan/" >
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=CoolDevMan&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
      </a>
-     <a href="https://github.com/CoolDevMan/MigelTom" >
+     <a href="https://github.com/CoolDevMan/CoolDevMan" >
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoolDevMan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
      </a>
  </p>  
@@ -104,5 +104,5 @@
 
 ## AWARDS  
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolDevMan)](https://github.com/CoolDevMan/MigelTom)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolDevMan)](https://github.com/CoolDevMan/CoolDevMan)  
 
